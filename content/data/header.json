@@ -1,7 +1,7 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "url": "/images/logo.jpg",
+        "altText": "Logo rose",
         "styles": {
             "self": {
                 "margin": ["mr-3"]
@@ -11,8 +11,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Nos events",
+            "url": "/events",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -71,17 +71,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
+            "label": "Adhérer",
+            "url": "https://www.helloasso.com/associations/association-de-longboard-longride-montpellier/adhesions/adhesion-2024-2025",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",

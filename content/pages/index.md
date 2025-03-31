@@ -4,14 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Longride
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Association de longboard dancing & freestyle
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Nous sommes une association passionnée de longboard dancing & freestyle.
+      Nous organisons des événements à Montpellier, où vous pourrez découvrir et pratiquer cette discipline fascinante.
+      Retrouvez-nous tous les mardi soir à Tropisme !
     actions:
       - label: Get started
         altText: ''
@@ -36,10 +36,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:

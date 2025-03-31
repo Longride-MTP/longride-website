@@ -1,15 +1,15 @@
 ---
-title: Pricing
-slug: pricing
+title: Events
+slug: events
 sections:
   - title:
-      text: Flexible Pricing
+      text: Longride, c'est aussi des events !
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: L'occasion pour toute la communauté longboard dancing de France de se retrouver à Montpellier :)
     plans:
       - title: Developers
         price: Free
