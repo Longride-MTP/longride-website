@@ -58,12 +58,10 @@ sections:
               textAlign: center
       type: ImageGallerySection
     - posts:
-          - content/pages/blog/case-study-1.md
-          - content/pages/blog/case-study-2.md
-          - content/pages/blog/case-study-3.md
+          - content/pages/event/sms-2024.md
+          - content/pages/event/spooky-ride-2024.md
       showThumbnail: true
       showDate: true
-      showAuthor: true
       variant: three-col-grid
       colors: bg-light-fg-dark
       styles:
@@ -106,8 +104,9 @@ sections:
 
           On t'accueille tous les mardis :
 
-            18h - 19h : Session sur inscription   (places limitées)\n
-            19h - 20h : Session gratuite et ouverte à tous
+          18h - 19h : Session sur inscription   (places limitées)
+
+          19h - 20h : Session gratuite et ouverte à tous
 
           Tu hésites encore ?
           Pas de panique ! Si tu n’as jamais mis un pied sur une planche ou si tu n’as pas de matériel ce n'est pas une excuse. On a tout ce qu'il te faut pour découvrir le longboard en toute sécurité  et avec un maximum de fun !
@@ -140,7 +139,6 @@ sections:
           subtitle:
               textAlign: center
       type: GenericSection
-
 seo:
     metaTitle: Longride
     metaDescription: Longride MTP - Vive la ride

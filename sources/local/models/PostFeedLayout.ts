@@ -3,11 +3,11 @@ import { Model } from '@stackbit/types';
 export const PostFeedLayout: Model = {
 	type: 'page',
 	name: 'PostFeedLayout',
-	label: 'Blog',
+	label: 'Event',
 	labelField: 'title',
 	singleInstance: true,
 	canDelete: false,
-	filePath: 'content/pages/blog/index.md',
+	filePath: 'content/pages/event/index.md',
 	fieldGroups: [
 		{
 			name: 'settings',
@@ -57,7 +57,7 @@ export const PostFeedLayout: Model = {
 			label: 'Enable search',
 			description: 'The built-in search works with a third party service. Learn how to configure it.',
 			required: false,
-			default: true,
+			default: false,
 			hidden: false,
 			localized: false
 		},
