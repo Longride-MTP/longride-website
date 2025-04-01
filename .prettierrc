@@ -5,7 +5,7 @@
     "tabWidth": 4,
     "overrides": [
         {
-            "files": ["*.md", "*.yaml", "*.json", "*.js"],
+            "files": ["*.md", "*.yaml", "*.json", "*.js", "*.ts", "*.tsx"],
             "options": {
                 "tabWidth": 4,
                 "useTabs": true
