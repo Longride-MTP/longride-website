@@ -1,36 +1,36 @@
 {
-    "logo": {
-        "url": "/images/logo-black.jpg",
-        "altText": "Logo black",
-        "type": "ImageBlock"
-    },
-    "text": "Rejoignez-nous sur les réseaux :",
-    "socialLinks": [
-        {
-            "altText": "Instagram link",
-            "url": "https://www.instagram.com/longride_mtp/",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
-            "altText": "Facebook link",
-            "url": "https://www.facebook.com/p/LongRide-MTP-61550053196330/",
-            "icon": "facebook",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/longride-mtp/",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "mailto:longridemtp@gmail.com",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
-    "colors": "bg-dark-fg-light",
-    "type": "Footer"
+	"logo": {
+		"url": "/images/logo-black.jpg",
+		"altText": "Logo black",
+		"type": "ImageBlock"
+	},
+	"text": "Rejoignez-nous sur les réseaux :",
+	"socialLinks": [
+		{
+			"altText": "Instagram link",
+			"url": "https://www.instagram.com/longride_mtp/",
+			"icon": "instagram",
+			"type": "Social"
+		},
+		{
+			"altText": "Facebook link",
+			"url": "https://www.facebook.com/p/LongRide-MTP-61550053196330/",
+			"icon": "facebook",
+			"type": "Social"
+		},
+		{
+			"altText": "LinkedIn link",
+			"url": "https://www.linkedin.com/company/longride-mtp/",
+			"icon": "linkedin",
+			"type": "Social"
+		},
+		{
+			"altText": "Email link",
+			"url": "mailto:longridemtp@gmail.com",
+			"icon": "mail",
+			"type": "Social"
+		}
+	],
+	"colors": "bg-dark-fg-light",
+	"type": "Footer"
 }

@@ -1,85 +1,85 @@
 {
-    "logo": {
-        "url": "/images/logo.jpg",
-        "altText": "Logo rose",
-        "styles": {
-            "self": {
-                "margin": ["mr-3"]
-            }
-        },
-        "type": "ImageBlock"
-    },
-    "primaryLinks": [
-        {
-            "label": "Nos events",
-            "url": "/events",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        }
-    ],
-    "secondaryLinks": [
-        {
-            "label": "Adhérer",
-            "url": "https://www.helloasso.com/associations/association-de-longboard-longride-montpellier/adhesions/adhesion-2024-2025",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
-        }
-    ],
-    "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
-    "type": "Header"
+	"logo": {
+		"url": "/images/logo.jpg",
+		"altText": "Logo rose",
+		"styles": {
+			"self": {
+				"margin": ["mr-3"]
+			}
+		},
+		"type": "ImageBlock"
+	},
+	"primaryLinks": [
+		{
+			"label": "Nos events",
+			"url": "/events",
+			"icon": "arrowRight",
+			"iconPosition": "right",
+			"style": "secondary",
+			"type": "Link"
+		},
+		{
+			"label": "Blog",
+			"altText": "Blog",
+			"url": "/blog",
+			"icon": "arrowRight",
+			"iconPosition": "right",
+			"style": "secondary",
+			"type": "Link"
+		},
+		{
+			"label": "Careers",
+			"altText": "Careers page",
+			"url": "/careers",
+			"icon": "arrowRight",
+			"iconPosition": "right",
+			"style": "secondary",
+			"type": "Link"
+		},
+		{
+			"label": "Dropdown",
+			"altText": "Dropdown",
+			"links": [
+				{
+					"label": "Dropdown item",
+					"url": "/",
+					"icon": "arrowRight",
+					"iconPosition": "right",
+					"style": "secondary",
+					"type": "Link"
+				},
+				{
+					"label": "Dropdown item",
+					"url": "/",
+					"icon": "arrowRight",
+					"iconPosition": "right",
+					"style": "secondary",
+					"type": "Link"
+				},
+				{
+					"label": "Dropdown item",
+					"url": "/",
+					"icon": "arrowRight",
+					"iconPosition": "right",
+					"style": "secondary",
+					"type": "Link"
+				}
+			],
+			"labelStyle": "secondary",
+			"type": "SubNav"
+		}
+	],
+	"secondaryLinks": [
+		{
+			"label": "Adhérer",
+			"url": "https://www.helloasso.com/associations/association-de-longboard-longride-montpellier/adhesions/adhesion-2024-2025",
+			"icon": "arrowRight",
+			"iconPosition": "right",
+			"style": "primary",
+			"type": "Button"
+		}
+	],
+	"variant": "logo-left-primary-nav-centered",
+	"colors": "bg-light-fg-dark",
+	"type": "Header"
 }

@@ -1,4 +1,4 @@
-# Netlify Content Ops Starter 
+# Netlify Content Ops Starter
 
 ![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
 
@@ -46,8 +46,8 @@ npm run build
 
 Here are a few suggestions on what to do next if you're new to Netlify visual editor:
 
-- Learn [Netlify visual editor overview](https://docs.netlify.com/visual-editor/visual-editing/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
+-   Learn [Netlify visual editor overview](https://docs.netlify.com/visual-editor/visual-editing/)
+-   Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
 
 ## Support
 

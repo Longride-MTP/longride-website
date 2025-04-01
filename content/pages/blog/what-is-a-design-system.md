@@ -4,26 +4,26 @@ title: What is a Design System
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
-  A Design System is a comprehensive set of standards, principles, and tools that guide the design and development of a product or service. It provides a unified framework to ensure consistency, efficiency, and scalability across a product's user interface (UI) and user experience (UX).
+    A Design System is a comprehensive set of standards, principles, and tools that guide the design and development of a product or service. It provides a unified framework to ensure consistency, efficiency, and scalability across a product's user interface (UI) and user experience (UX).
 featuredImage:
-  url: /images/abstract-feature3.svg
-  altText: Thumbnail
-  type: ImageBlock
-  styles:
-    self:
-      borderRadius: medium
+    url: /images/abstract-feature3.svg
+    altText: Thumbnail
+    type: ImageBlock
+    styles:
+        self:
+            borderRadius: medium
 bottomSections: []
 isFeatured: false
 isDraft: false
 seo:
-  metaTitle: What is a Design System
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature3.svg
-  type: Seo
+    metaTitle: What is a Design System
+    metaDescription: You can add the excerpt and main keywords of your blog post here.
+    socialImage: /images/abstract-feature3.svg
+    type: Seo
 colors: bg-light-fg-dark
 styles:
-  self:
-    flexDirection: col
+    self:
+        flexDirection: col
 author: content/data/person2.json
 ---
 
@@ -40,9 +40,9 @@ A **Design System** is a comprehensive set of standards, principles, and tools t
 
 ### Benefits of a Design System:
 
-- **Consistency**: Ensures a cohesive user experience across different platforms and products.
-- **Efficiency**: Speeds up the design and development process by providing ready-to-use components and guidelines.
-- **Scalability**: Makes it easier to scale the product by maintaining design consistency as the team grows or the product evolves.
-- **Collaboration**: Enhances communication between designers, developers, and other stakeholders by providing a common language and resources.
+-   **Consistency**: Ensures a cohesive user experience across different platforms and products.
+-   **Efficiency**: Speeds up the design and development process by providing ready-to-use components and guidelines.
+-   **Scalability**: Makes it easier to scale the product by maintaining design consistency as the team grows or the product evolves.
+-   **Collaboration**: Enhances communication between designers, developers, and other stakeholders by providing a common language and resources.
 
 Would you like to dive deeper into any specific aspect of a Design System?
