@@ -239,7 +239,7 @@ sections:
           vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
       media:
           title: Title of the video
-          url: /images/placeholder-video.mp4
+          url: /images/longrige.jpg
           controls: false
           aspectRatio: '16:9'
           styles:
@@ -289,7 +289,7 @@ sections:
       actions: []
       media:
           title: Title of the video
-          url: /images/placeholder-video.mp4
+          url: /images/longride.jpg
           autoplay: true
           loop: true
           muted: true
