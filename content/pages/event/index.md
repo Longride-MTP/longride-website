@@ -7,7 +7,7 @@ topSections:
           text: Longride, c'est aussi des events !
           color: text-dark
           type: TitleBlock
-      subtitle: Que ce soit du cruising, du dancing, de la pumptrack, déguisé ou non, venez rouler avec nous !
+      subtitle: Que ce soit du cruising, du dancing, de la pumptrack, déguisé ou non, venez rouler avec nous ! L'occasion pour toute la communauté longboard dancing de France de se retrouver à Montpellier :)
       showThumbnail: false
       showExcerpt: true
       showDate: true

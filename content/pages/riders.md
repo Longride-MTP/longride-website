@@ -3,19 +3,26 @@ title: Nos riders
 slug: riders
 sections:
     - title:
-          text: Meet the team (WIP)
+          text: Viens rouler avec nous !
           color: text-dark
           styles:
               self:
                   textAlign: center
           type: TitleBlock
       people:
-          - content/data/person1.json
-          - content/data/person2.json
-          - content/data/person3.json
-          - content/data/person4.json
-          - content/data/person5.json
-          - content/data/person6.json
+          - content/data/merti.json
+          - content/data/max.json
+          - content/data/maxi.json
+          - content/data/cinthia.json
+          - content/data/will.json
+          - content/data/mado.json
+          - content/data/mateo.json
+          - content/data/alex.json
+          - content/data/quentin.json
+          - content/data/nell.json
+          - content/data/lena.json
+          - content/data/caro.json
+          - content/data/valentin.json
       variant: three-col-grid
       colors: bg-light-fg-dark
       styles:
