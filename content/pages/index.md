@@ -7,14 +7,18 @@ sections:
           text: LONGRIDE
           color: text-dark
           type: TitleBlock
+          styles:
+              self:
+                  font-family: Impact
       subtitle: Association de longboard dancing & freestyle sur Montpellier
       text: >
           Nous sommes une association passionnée de longboard dancing & freestyle.
-          Nous organisons des événements à Montpellier, où vous pourrez découvrir et pratiquer cette discipline fascinante.
-          Retrouvez-nous tous les mardi soir à Tropisme !
+          Nous organisons des événements à Montpellier, où vous pourrez découvrir et
+          pratiquer cette discipline fascinante. Retrouvez-nous tous les mardi soir
+          à Tropisme !
       actions:
           - label: Restez informé sur notre instagram !
-            url: https://www.instagram.com/longride_mtp/
+            url: 'https://www.instagram.com/longride_mtp/'
             showIcon: true
             icon: instagram
             iconPosition: right
@@ -71,10 +75,77 @@ sections:
           url: /images/tropisme-mini.jpg
           altText: Riders à la Halle Tropisme
           type: ImageBlock
-          style:
       colors: bg-light-fg-dark
       type: GenericSection
-    - subtitle: Ces sponsors nous on fait confiance, pourquoi pas vous !
+    - title: Divider
+      colors: bg-light-fg-dark
+      styles:
+          self:
+              padding:
+                  - pt-7
+                  - pl-7
+                  - pb-7
+                  - pr-7
+      type: DividerSection
+    - title:
+          text: Session pumtrack
+          color: text-dark
+          type: TitleBlock
+      subtitle: WIP
+      text: |-
+          WIP
+      actions:
+          - label: Plus d'informations
+            url: /session-pumptrack
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+            type: Button
+      media:
+          url: /images/pumptrack-mini.jpg
+          altText: Pumptrack
+          type: ImageBlock
+      colors: bg-light-fg-dark
+      type: GenericSection
+    - title: Divider
+      colors: bg-light-fg-dark
+      styles:
+          self:
+              padding:
+                  - pt-7
+                  - pl-7
+                  - pb-7
+                  - pr-7
+      type: DividerSection
+    - title:
+          text: Session cruising
+          color: text-dark
+          type: TitleBlock
+      subtitle: WIP
+      text: |-
+          WIP
+      actions:
+          - label: Plus d'informations
+            url: /session-cruising
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+            type: Button
+      styles:
+          self:
+              alignItems: center
+              flexDirection: row-reverse
+      media:
+          url: /images/cruising-mini.jpg
+          altText: Cruising
+          type: ImageBlock
+      colors: bg-light-fg-dark
+      type: GenericSection
+    - subtitle: 'Ces sponsors nous on fait confiance, pourquoi pas vous !'
       images:
           - url: /images/tropisme.png
             altText: Tropisme logo
