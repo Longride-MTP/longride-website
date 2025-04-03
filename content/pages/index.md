@@ -7,9 +7,6 @@ sections:
           text: LONGRIDE
           color: text-dark
           type: TitleBlock
-          styles:
-              self:
-                  font-family: Impact
       subtitle: Association de longboard dancing & freestyle sur Montpellier
       text: >
           Nous sommes une association passionnée de longboard dancing & freestyle.
