@@ -1,0 +1,28 @@
+{
+	"type": "Person",
+	"name": "Will",
+	"image": {
+		"url": "/images/will.jpg",
+		"altText": "Will",
+		"styles": {
+			"self": {
+				"borderRadius": "medium",
+				"margin": ["mb-5"]
+			}
+		},
+		"type": "ImageBlock"
+	},
+	"colors": "bg-light-fg-dark",
+	"styles": {
+		"self": {
+			"padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+			"textAlign": "center",
+			"borderColor": "border-neutral",
+			"borderStyle": "solid",
+			"borderWidth": 0,
+			"borderRadius": "none",
+			"justifyContent": "center"
+		}
+	},
+	"bio": "Si vous dites qu'un trick est dangereux, il va surement l'essayer. Si le site ne fonctionne pas, c'est probablement de sa faute, mais il vous dira que c'est probablement de la votre"
+}

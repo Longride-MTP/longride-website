@@ -1,13 +1,13 @@
 {
-	"name": "Rhonda Piper",
-	"role": "Job title",
+	"type": "Person",
+	"name": "Valentin",
 	"image": {
-		"url": "/images/avatar1.svg",
-		"altText": "Rhonda Piper",
+		"url": "/images/valentin.jpg",
+		"altText": "Valentin",
 		"styles": {
 			"self": {
 				"borderRadius": "medium",
-				"margin": ["mb-8"]
+				"margin": ["mb-5"]
 			}
 		},
 		"type": "ImageBlock"
@@ -24,6 +24,5 @@
 			"justifyContent": "center"
 		}
 	},
-	"type": "Person",
-	"bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+	"bio": "Valentin manie sa board comme s'il avait un énorme pop, alors qu'elle est  totalement dénuée de nose ou de tail !"
 }

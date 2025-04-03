@@ -1,20 +1,18 @@
 {
 	"type": "Person",
-	"name": "Faizah Chan",
-	"role": "Co-founder & CEO",
+	"name": "Maxi",
 	"image": {
-		"url": "/images/avatar2.svg",
-		"altText": "Faizah Chan",
+		"url": "/images/maxi.jpg",
+		"altText": "Maxi",
 		"styles": {
 			"self": {
 				"borderRadius": "medium",
-				"margin": ["mb-8"]
+				"margin": ["mb-5"]
 			}
 		},
 		"type": "ImageBlock"
 	},
 	"colors": "bg-light-fg-dark",
-	"elementId": null,
 	"styles": {
 		"self": {
 			"padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
@@ -26,5 +24,5 @@
 			"justifyContent": "center"
 		}
 	},
-	"bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+	"bio": "Toujours présentes à nos sessions, Maxi est toujours smooth sur ses pas de danse ! Ce n'est pas une compétition, mais c'est bien elle qui a la board la plus longue..."
 }

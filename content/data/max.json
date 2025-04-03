@@ -1,20 +1,18 @@
 {
 	"type": "Person",
-	"name": "Asher Schmitt",
-	"role": "Co-founder & CEO",
+	"name": "Max",
 	"image": {
-		"url": "/images/avatar3.svg",
-		"altText": "Asher Schmitt",
+		"url": "/images/max.jpg",
+		"altText": "Max",
 		"styles": {
 			"self": {
 				"borderRadius": "medium",
-				"margin": ["mb-8"]
+				"margin": ["mb-5"]
 			}
 		},
 		"type": "ImageBlock"
 	},
 	"colors": "bg-light-fg-dark",
-	"elementId": null,
 	"styles": {
 		"self": {
 			"padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
@@ -26,5 +24,5 @@
 			"justifyContent": "center"
 		}
 	},
-	"bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+	"bio": "Président de l'association et toujours prêt à faire part de son expérience aux autres, Max est le moteur de Longride ! Il maîtrise autant la pédagogie que le longboard"
 }

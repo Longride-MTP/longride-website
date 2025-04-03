@@ -14,7 +14,8 @@
 			"label": "Nos events",
 			"url": "/event",
 			"style": "secondary",
-			"type": "Link"
+			"type": "Link",
+			"hoverEffect": "shadow"
 		},
 		{
 			"label": "Nos riders",
@@ -22,6 +23,30 @@
 			"url": "/riders",
 			"style": "secondary",
 			"type": "Link"
+		},
+		{
+			"label": "Nos sessions",
+			"links": [
+				{
+					"label": "Session du mardi",
+					"url": "/session-mardi",
+					"style": "secondary",
+					"type": "Link"
+				},
+				{
+					"label": "Session pumptrack",
+					"url": "/session-pumptrack",
+					"style": "secondary",
+					"type": "Link"
+				},
+				{
+					"label": "Session cruising",
+					"url": "/session-cruising",
+					"style": "secondary",
+					"type": "Link"
+				}
+			],
+			"type": "SubNav"
 		}
 	],
 	"secondaryLinks": [

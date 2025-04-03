@@ -1,0 +1,28 @@
+{
+	"type": "Person",
+	"name": "Caro",
+	"image": {
+		"url": "/images/caro.jpg",
+		"altText": "Caro",
+		"styles": {
+			"self": {
+				"borderRadius": "medium",
+				"margin": ["mb-5"]
+			}
+		},
+		"type": "ImageBlock"
+	},
+	"colors": "bg-light-fg-dark",
+	"styles": {
+		"self": {
+			"padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+			"textAlign": "center",
+			"borderColor": "border-neutral",
+			"borderStyle": "solid",
+			"borderWidth": 0,
+			"borderRadius": "none",
+			"justifyContent": "center"
+		}
+	},
+	"bio": "Que ça roule ou pas, Caro ramène toujours l'ambiance, et souvent le goûter ! En fait, c'est un peu notre maman..."
+}
