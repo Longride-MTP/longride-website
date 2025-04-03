@@ -30,4 +30,6 @@ type: PostLayout
 
 Tous déguisés sur vos boards pour Halloween :o
 
+![Spooky ride](/images/spooky-ride.jpg)
+
 Retrouvez la vidéo récapitulative de l'event sur [instagram](https://www.instagram.com/p/DCHY3h_gcQt/) :)
