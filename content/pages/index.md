@@ -160,6 +160,7 @@ sections:
               textAlign: center
       type: ImageGallerySection
     - posts:
+          - content/pages/event/longboard-club.md
           - content/pages/event/sms-2024.md
           - content/pages/event/spooky-ride-2024.md
       title:
