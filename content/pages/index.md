@@ -145,6 +145,9 @@ sections:
           - url: /images/mtpsurlacarte.jpg
             altText: MTP sur la carte logo
             type: ImageBlock
+          - url: /images/petits-debrouillards.png
+            altText: Les petits débrouillards
+            type: ImageBlock
       motion: move-to-left
       colors: bg-neutral-fg-dark
       styles:
