@@ -5,7 +5,6 @@ sections:
     - type: GenericSection
       title:
           text: LONGRIDE
-          color: text-dark
           type: TitleBlock
       subtitle: Association de longboard dancing & freestyle sur Montpellier
       text: >
@@ -20,14 +19,11 @@ sections:
             icon: instagram
             iconPosition: right
             style: secondary
-            elementId: ''
             type: Button
       media:
           url: /images/merti-flammingo.jpg
           altText: Merti en flammand rose
           type: ImageBlock
-      elementId: ''
-      colors: bg-light-fg-dark
       styles:
           self:
               alignItems: center
@@ -38,7 +34,6 @@ sections:
                   - pb-20
                   - pr-16
     - title: Divider
-      colors: bg-light-fg-dark
       styles:
           self:
               padding:
@@ -49,11 +44,13 @@ sections:
       type: DividerSection
     - title:
           text: Session du mardi
-          color: text-dark
           type: TitleBlock
       subtitle: Tous les mardi soirs à partir de 18h à la Halle Tropisme
       text: |-
-          18h - 19h : Session sur inscription   (places limitées)
+          Que vous n'ayez jamais mis les pieds sur une board ou que vous soyer un pro, venez roulez avec nous à couvert à la Halle Tropisme !
+
+          18h - 19h : Initiation dancing ([sur inscription](https://www.helloasso.com/associations/association-de-longboard-longride-montpellier))
+
           19h - 20h : Session ouverte à tous les adhérents
       actions:
           - label: Plus d'informations
@@ -62,7 +59,6 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
-            elementId: ''
             type: Button
       styles:
           self:
@@ -72,10 +68,8 @@ sections:
           url: /images/tropisme-mini.jpg
           altText: Riders à la Halle Tropisme
           type: ImageBlock
-      colors: bg-light-fg-dark
       type: GenericSection
     - title: Divider
-      colors: bg-light-fg-dark
       styles:
           self:
               padding:
@@ -86,11 +80,13 @@ sections:
       type: DividerSection
     - title:
           text: Session pumtrack
-          color: text-dark
           type: TitleBlock
-      subtitle: WIP
+      subtitle: Un dimanche par mois
       text: |-
-          WIP
+          Nous allons parfois tous ensemble à la [pumptrack de Gramont](https://maps.app.goo.gl/jjviKR6HBeVioThm7).
+
+          Suis notre agenda sur instagram pour connaître les prochaines dates,
+          et n'hésite pas à nous envoyer un DM si tu veux covoiturer avec nous !
       actions:
           - label: Plus d'informations
             url: /session-pumptrack
@@ -98,16 +94,13 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
-            elementId: ''
             type: Button
       media:
           url: /images/pumptrack-mini.jpg
           altText: Pumptrack
           type: ImageBlock
-      colors: bg-light-fg-dark
       type: GenericSection
     - title: Divider
-      colors: bg-light-fg-dark
       styles:
           self:
               padding:
@@ -118,11 +111,12 @@ sections:
       type: DividerSection
     - title:
           text: Session cruising
-          color: text-dark
           type: TitleBlock
-      subtitle: WIP
+      subtitle: Un dimanche par mois
       text: |-
-          WIP
+          Un tour de Montpellier en longboard, ça te dit ?
+
+          Suis notre agenda sur instagram pour connaître les prochaines dates !
       actions:
           - label: Plus d'informations
             url: /session-cruising
@@ -130,7 +124,6 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
-            elementId: ''
             type: Button
       styles:
           self:
@@ -140,7 +133,6 @@ sections:
           url: /images/cruising-mini.jpg
           altText: Cruising
           type: ImageBlock
-      colors: bg-light-fg-dark
       type: GenericSection
     - subtitle: 'Ces sponsors nous on fait confiance, pourquoi pas vous !'
       images:
@@ -166,12 +158,10 @@ sections:
           - content/pages/event/spooky-ride-2024.md
       title:
           text: Nos derniers événements
-          color: text-dark
           type: TitleBlock
       showThumbnail: true
       showDate: true
       variant: three-col-grid
-      colors: bg-light-fg-dark
       styles:
           self:
               padding:

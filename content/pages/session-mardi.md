@@ -5,7 +5,6 @@ sections:
     - type: GenericSection
       title:
           text: Session du mardi
-          color: text-dark
           type: TitleBlock
       subtitle: Tous les mardi soirs à 18h à la Halle Tropisme
       text: >
@@ -13,30 +12,15 @@ sections:
           puis session ouverte à partir de 19h si vous adhérez à l'association !
       actions:
           - label: Lien de l'event Halle Tropisme
-            altText: ''
             url: https://www.tropisme.coop/agenda/atelier-longboard-dancing-freestyle
             style: secondary
-            elementId: ''
             type: Button
       media:
           url: /images/tropisme.jpg
           altText: Riders à la Halle Tropisme
-          elementId: ''
           type: ImageBlock
-      elementId: ''
-      colors: bg-light-fg-dark
-      styles:
-          self:
-              alignItems: center
-              flexDirection: row
-              padding:
-                  - pt-16
-                  - pl-16
-                  - pb-20
-                  - pr-16
     - title:
           text: Initiations dancing
-          color: text-dark
           styles:
               self:
                   textAlign: center
@@ -60,7 +44,6 @@ sections:
           Après la session, on se retrouve pour partager un verre pour ceux qui le souhaitent !
 
           Que la ride soit avec toi !
-      colors: bg-light-fg-dark
       styles:
           self:
               flexDirection: col

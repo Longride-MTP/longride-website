@@ -4,7 +4,6 @@ slug: riders
 sections:
     - title:
           text: Viens rouler avec nous !
-          color: text-dark
           styles:
               self:
                   textAlign: center
@@ -24,7 +23,6 @@ sections:
           - content/data/caro.json
           - content/data/valentin.json
       variant: three-col-grid
-      colors: bg-light-fg-dark
       styles:
           self:
               padding:
