@@ -1,6 +1,6 @@
 # Longride website
 
-Built from ![this template](https://github.com/netlify-templates/content-ops-starter/)
+Built from [this template](https://github.com/netlify-templates/content-ops-starter/)
 
 # Dev locally
 

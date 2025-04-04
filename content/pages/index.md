@@ -137,7 +137,7 @@ sections:
           altText: Cruising
           type: ImageBlock
       type: GenericSection
-    - subtitle: 'Ces sponsors nous on fait confiance, pourquoi pas vous !'
+    - subtitle: 'Ces partenaires nous on fait confiance, pourquoi pas vous !'
       images:
           - url: /images/tropisme.png
             altText: Tropisme logo
