@@ -46,4 +46,7 @@ Viens avec des baskets, une tenue confortable, et ta meilleure énergie.
 
 Rendez-vous lundi 22 avril de 14h à 17h à la Halle Tropisme, Montpellier.
 
+Pour s'inscrire c'est [par ici !]
+(https://www.helloasso.com/associations/association-de-longboard-longride-montpellier/evenements/kids-initiation-club)
+
 ![Club Longboard Dancing](/images/longboard-club.png)
